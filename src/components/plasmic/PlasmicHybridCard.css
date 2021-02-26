@@ -1,0 +1,90 @@
+ .HybridCard__root__tUrB {
+        display: inline-flex;
+position: relative;
+width: auto;
+height: auto;
+      } 
+ .HybridCard__box__kePl4 {
+        display: inline-flex;
+position: relative;
+width: auto;
+height: auto;
+flex-direction: column;
+box-shadow: 0px 12px 36px 2px rgba(0,0,0,0.18) /* plasmic-token: RCVm81m9i */;
+cursor: default;
+transition-property: all;
+transition-duration: 2s;
+border-radius: 7px;
+padding: 10px 25px 10px 10px;
+background: rgb(255,255,255);
+      } 
+ .HybridCard__box__kePl4 > .__wab_flex-container {
+        flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+margin-top: calc(0px - 5px);
+height: calc(100% + 5px);
+      } 
+ .HybridCard__box__kePl4 > .__wab_flex-container > *, .HybridCard__box__kePl4 > .__wab_flex-container > .__wab_slot > * {
+        margin-top: 5px;
+      } 
+ .HybridCard__box__h1T6R {
+        display: flex;
+position: relative;
+flex-direction: row;
+align-items: stretch;
+justify-content: flex-start;
+      } 
+ .HybridCard__faultNameNumber__beTij.__wab_instance {
+        position: relative;
+      } 
+ .HybridCard__slotFaultNameStandard__g6Gqv > * {
+        text-decoration-line: none;
+      } 
+ .HybridCard__box___9XhZ {
+        display: inline-flex;
+position: relative;
+width: auto;
+height: 262px;
+box-shadow: 0px 12px 36px 6px rgba(0,0,0,0.18) /* plasmic-token: RCVm81m9i */;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+transition-property: all;
+transition-duration: 2s;
+transition-delay: 1s;
+transition-timing-function: ease-in-out;
+border-radius: 7px;
+padding: 10px 25px 10px 10px;
+background: rgb(255,255,255);
+      } 
+ .HybridCard__faultNameNumber__c6SEb.__wab_instance {
+        position: relative;
+width: auto;
+      } 
+ .HybridCard__box__lOywI {
+        display: flex;
+position: relative;
+flex-direction: row;
+width: 100%;
+height: auto;
+padding-right: 0px;
+padding-left: 0px;
+min-width: 0;
+      } 
+ .HybridCard__box__lOywI > .__wab_flex-container {
+        flex-direction: row;
+align-items: flex-end;
+justify-content: space-between;
+margin-left: calc(0px - 10px);
+width: calc(100% + 10px);
+      } 
+ .HybridCard__box__lOywI > .__wab_flex-container > *, .HybridCard__box__lOywI > .__wab_flex-container > .__wab_slot > * {
+        margin-left: 10px;
+      } 
+ .HybridCard__needSupportButton___3EWa.__wab_instance {
+        position: relative;
+      } 
+ .HybridCard__fixedButton__nyVao.__wab_instance {
+        position: relative;
+      } 

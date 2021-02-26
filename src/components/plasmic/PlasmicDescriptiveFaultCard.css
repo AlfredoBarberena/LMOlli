@@ -1,0 +1,45 @@
+ .DescriptiveFaultCard__root__txgWd {
+        display: inline-flex;
+position: relative;
+width: auto;
+height: 262px;
+box-shadow: 0px 12px 36px 6px rgba(0,0,0,0.18) /* plasmic-token: RCVm81m9i */;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+transition-property: all, all;
+transition-duration: 1s, 1s;
+border-radius: 7px;
+padding: 10px 25px 10px 10px;
+background: rgb(255,255,255);
+      } 
+ .DescriptiveFaultCard__faultNameNumber___2RtpE.__wab_instance {
+        position: relative;
+width: auto;
+      } 
+ .DescriptiveFaultCard__box__dpNo {
+        display: flex;
+position: relative;
+flex-direction: row;
+width: 100%;
+height: auto;
+padding-right: 0px;
+padding-left: 0px;
+min-width: 0;
+      } 
+ .DescriptiveFaultCard__box__dpNo > .__wab_flex-container {
+        flex-direction: row;
+align-items: flex-end;
+justify-content: space-between;
+margin-left: calc(0px - 10px);
+width: calc(100% + 10px);
+      } 
+ .DescriptiveFaultCard__box__dpNo > .__wab_flex-container > *, .DescriptiveFaultCard__box__dpNo > .__wab_flex-container > .__wab_slot > * {
+        margin-left: 10px;
+      } 
+ .DescriptiveFaultCard__needSupportButton__zXWva.__wab_instance {
+        position: relative;
+      } 
+ .DescriptiveFaultCard__fixedButton__rG6E.__wab_instance {
+        position: relative;
+      } 

@@ -1,0 +1,25 @@
+ .BaseCard__root__lDtry {
+        display: flex;
+position: relative;
+width: 100%;
+height: auto;
+flex-direction: column;
+box-shadow: 0px 12px 36px 6px rgba(0,0,0,0.18) /* plasmic-token: 2cGf4hPX0 */;
+min-width: 0;
+border-radius: 7px;
+padding: 10px 25px 10px 10px;
+background: rgb(255,255,255);
+      } 
+ .BaseCard__root__lDtry > .__wab_flex-container {
+        flex-direction: column;
+justify-content: flex-end;
+align-items: stretch;
+margin-top: calc(0px - 5px);
+height: calc(100% + 5px);
+      } 
+ .BaseCard__root__lDtry > .__wab_flex-container > *, .BaseCard__root__lDtry > .__wab_flex-container > .__wab_slot > * {
+        margin-top: 5px;
+      } 
+ .BaseCard__box__gkzS2 {
+        position: relative;
+      } 

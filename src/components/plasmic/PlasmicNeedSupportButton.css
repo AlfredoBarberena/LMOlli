@@ -1,0 +1,23 @@
+ .NeedSupportButton__root__kjpuF {
+        display: inline-flex;
+position: relative;
+width: auto;
+height: auto;
+box-shadow: none;
+border-radius: 7px;
+padding: 3px;
+background: rgb(219,80,74);
+border: 2px none rgb(219,80,74) /* plasmic-token: SPCqI2DXC */;
+      } 
+ .NeedSupportButton__root__kjpuF:hover {
+        cursor: pointer;
+background: rgb(189,70,64);
+      } 
+ .NeedSupportButton__root__kjpuF:active {
+        box-shadow: 0px 6px 36px 12px rgba(0,0,0,0.18) /* plasmic-token: RCVm81m9i */;
+cursor: pointer;
+      } 
+ .NeedSupportButton__box___5My4S {
+        position: relative;
+color: rgb(255,255,255);
+      } 

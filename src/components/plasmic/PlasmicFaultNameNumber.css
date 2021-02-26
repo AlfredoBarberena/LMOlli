@@ -1,0 +1,25 @@
+ .FaultNameNumber__root__ojtDb {
+        display: flex;
+position: relative;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+      } 
+ .FaultNameNumber__root__highPriority__ojtDb2MJaa {
+        border-bottom-style: solid;
+border-top-width: 1px;
+border-right-width: 1px;
+border-left-width: 1px;
+border-color: rgb(219,80,74);
+      } 
+ .FaultNameNumber__root__mediumPriority__ojtDbNtJaa {
+        border-bottom-color: rgb(227,181,5);
+      } 
+ .FaultNameNumber__root__lowPriority__ojtDbY7Mo7 {
+        border-bottom-color: rgb(33,26,29) /* plasmic-token: QlP28ytXB */;
+      } 
+ .FaultNameNumber__root__noPriority__ojtDb4BMu4 {
+        border-bottom-color: rgb(87,193,232) /* plasmic-token: Hm4A12Qvw */;
+      } 
+ .FaultNameNumber__slotChildren___7VYmG {
+        font-weight: 700;
+      } 

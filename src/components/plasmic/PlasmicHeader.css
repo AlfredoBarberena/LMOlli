@@ -1,0 +1,18 @@
+ .Header__root___7Rk5K {
+        display: flex;
+position: relative;
+width: 100%;
+height: auto;
+justify-content: flex-start;
+align-items: center;
+min-width: 0;
+background: rgb(87,193,232);
+      } 
+ .Header__svg__xpbfn {
+        position: relative;
+object-fit: cover;
+width: 199px;
+height: 150px;
+color: rgb(255,255,255) /* plasmic-token: ifidyFcW_ */;
+flex-shrink: 0;
+      } 

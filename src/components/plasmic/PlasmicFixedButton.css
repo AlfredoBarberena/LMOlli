@@ -1,0 +1,28 @@
+ .FixedButton__root__ajeK {
+        display: inline-flex;
+position: relative;
+width: auto;
+height: auto;
+overflow: hidden;
+box-shadow: none;
+border-radius: 7px;
+padding: 3px;
+border: 2px solid rgb(87,193,232) /* plasmic-token: Hm4A12Qvw */;
+      } 
+ .FixedButton__root__ajeK:hover {
+        cursor: pointer;
+pointer-events: auto;
+background: rgb(87,193,232);
+      } 
+ .FixedButton__root__ajeK:active {
+        box-shadow: 0px 12px 36px 6px rgba(0,0,0,0.18) /* plasmic-token: 2cGf4hPX0 */;
+cursor: pointer;
+pointer-events: auto;
+      } 
+ .FixedButton__box__evfEg {
+        position: relative;
+color: rgb(87,193,232) /* plasmic-token: Hm4A12Qvw */;
+      } 
+ .FixedButton__root__ajeK:hover .FixedButton__box__evfEg {
+        color: rgb(255,255,255) /* plasmic-token: ifidyFcW_ */;
+      } 
